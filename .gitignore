@@ -1,4 +1,4 @@
-S3_Utils/.env
+.env
 S3_Utils/__pycache__/
 .vscode/
 __pycache__/

@@ -2,7 +2,7 @@ from boto3 import Session
 import os
 from dotenv import load_dotenv
 
-load_dotenv('../OpenPapers/S3_Utils/.env')
+load_dotenv('../OpenPapers/.env')
 
 
 
